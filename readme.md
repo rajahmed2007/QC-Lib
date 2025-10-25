@@ -33,8 +33,8 @@ pip install numpy
 Currently, the project is not packaged. You can use it by cloning the repository and ensuring the `.py` files (`circuit.py`, `statev.py`, `gates.py`) are in your working directory or `PYTHONPATH`.
 
 ```bash
-git clone https://github.com/your-username/vectorq.git  #<-- Replace with your repo URL
-cd vectorq
+git clone https://github.com/your-username/QC-LIB.git  
+cd QC-LIB
 ```
 
 -----
